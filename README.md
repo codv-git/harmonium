@@ -2,7 +2,7 @@
 Simple Restricted Boltzmann Machine implementation with TensorFlow.
 Implementation supports sigmoid, relu and linear visible/hidden units, l1/l2/sparsity regularization and contrastive divergence learning with momentum.
 
-
+(forked from aby2s/harmonium)
 
 ## Writing a Simple RBM
 
